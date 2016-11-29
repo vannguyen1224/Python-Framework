@@ -23,6 +23,7 @@ class Browser(object):
     IE = "IE"
     Chrome = "Chrome"
     Safari = "Safari"
+	Abc = "Abc"
     
 class Platform(object):
     WINDOWS = "WINDOWS"
