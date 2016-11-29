@@ -1,0 +1,9 @@
+browser_name=Firefox
+platform=MAC
+element_wait_timeout=60
+hub_url=http://192.168.171.127:9999/wd/hub
+
+# browser_name valid values: Firefox, IE, Safari
+# platform valid values: WINDOWS, MAC, ANY
+# element_wait_timeout in seconds
+# Set hub_url to None for running locally OR set to Grid hub url for running remotely (ex: "http://192.168.171.127:9999/wd/hub")
