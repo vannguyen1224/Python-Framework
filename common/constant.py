@@ -6,6 +6,7 @@ Created on May 30, 2016
 
 class Constant(object):
     RunEnvironmentFile = "../data/RunEnv.txt"
+	ABC = "abc"
     SuitableTechURL = "https://staging.suitabletech.com"
     AdminUsername = "tam.pham@logigear.com"
     AdminPassword = "Logigear123"
